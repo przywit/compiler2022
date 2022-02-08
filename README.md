@@ -17,4 +17,5 @@ Uruchomienie kompilatora:
 python3 kompilator.py <nazwa pliku wejściowego> <nazwa pliku wyjściowego>
 
 ./mandatoryTests.sh
+
 ./errorTests.sh
